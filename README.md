@@ -1,2 +1,1 @@
-# JMP7_Embedded_Servers
-Jetty embedded server
+#### Jetty embedded server with SPA UI
